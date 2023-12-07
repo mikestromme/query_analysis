@@ -1,0 +1,7 @@
+myvenv/
+.env
+*.png
+*.csv
+dist/
+build/
+main.spec
